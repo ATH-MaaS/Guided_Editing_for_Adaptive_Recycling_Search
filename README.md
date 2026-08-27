@@ -15,7 +15,7 @@
 </p>
 
 <p>Peking University, Alibaba Group</p>
-<p><strong>SIGGRAPH ASIA 2026 & TOG | </strong> <a href="https://arxiv.org/abs/2511.07222"><strong>Paper</strong></a></p>
+<p><strong>SIGGRAPH ASIA 2026 & TOG | </strong> <a href=""><strong>Paper</strong></a></p>
 
 </div>
 
