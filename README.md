@@ -24,7 +24,7 @@ This is the implementation of GEARS(**G**uided **E**diting for **A**daptive **R*
 1.  **Stage-Aware Scheduler** determines what to repair, when to repair it, and which candidates should be preserved, recycled, or discarded.
 2. **Candidate Recycler** diagnoses recoverable failures from keyframes and multi-dimensional reward feedback, derives candidatespecific repair prompts, and repairs the corresponding candidates through manifold-aware latent SDEdit.
 
-![vis](fig/vis.png)
+![vis](vis.png)
 
 
 ## Quick Start
